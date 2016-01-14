@@ -1,4 +1,18 @@
 /* applies to anything of class "example-class-selector" */
+p{
+     font-variant: small-caps;
+}
+
+s.project{
+     margin-left: 20px;
+}
+
+.project{
+     font-variant: small-caps;
+}
+#project1{
+     font-variant: small-caps;
+}
 .example-class-selector {
 	margin-top: 2em;
 }
